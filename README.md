@@ -1,0 +1,2 @@
+# BotTrial
+Discord bot trial
